@@ -1,5 +1,5 @@
-# Java Spring Boot Maven MVC
-## Aplicação Java usando o framework Spring Boot e Maven
+# Java Spring Maven MVC
+## Aplicação Java usando o framework Spring e Maven
 
 Aplicação para o gerenciamento de tarefas. incluindo as ações de inserção, pesquisa, atualização e exclusão.
 
